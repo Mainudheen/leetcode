@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mainudheen/leetcode/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Mainudheen/leetcode/tree/master/0242-valid-anagram) |
 | [2278-percentage-of-letter-in-string](https://github.com/Mainudheen/leetcode/tree/master/2278-percentage-of-letter-in-string) |
 ## Array
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Mainudheen/leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Mainudheen/leetcode/tree/master/0496-next-greater-element-i) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Mainudheen/leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Counting
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Mainudheen/leetcode/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mainudheen/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
