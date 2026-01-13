@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Mainudheen/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Mainudheen/leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Mainudheen/leetcode/tree/master/0056-merge-intervals) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mainudheen/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/Mainudheen/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mainudheen/leetcode/tree/master/0283-move-zeroes) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Mainudheen/leetcode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Mainudheen/leetcode/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mainudheen/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
