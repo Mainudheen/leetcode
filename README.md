@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Mainudheen/leetcode/tree/master/0056-merge-intervals) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mainudheen/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/Mainudheen/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Mainudheen/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mainudheen/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Mainudheen/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Mainudheen/leetcode/tree/master/0496-next-greater-element-i) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Mainudheen/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Mainudheen/leetcode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mainudheen/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Mainudheen/leetcode/tree/master/0496-next-greater-element-i) |
 | [0840-magic-squares-in-grid](https://github.com/Mainudheen/leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Mainudheen/leetcode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Mainudheen/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Mainudheen/leetcode/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mainudheen/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Mainudheen/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Mainudheen/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Mainudheen/leetcode/tree/master/0268-missing-number) |
 | [0840-magic-squares-in-grid](https://github.com/Mainudheen/leetcode/tree/master/0840-magic-squares-in-grid) |
 ## Matrix
 |  |
@@ -90,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mainudheen/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0268-missing-number](https://github.com/Mainudheen/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mainudheen/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mainudheen/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
@@ -113,5 +118,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Mainudheen/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mainudheen/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
