@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mainudheen/leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Mainudheen/leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Mainudheen/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Mainudheen/leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mainudheen/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mainudheen/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Mainudheen/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mainudheen/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Mainudheen/leetcode/tree/master/0056-merge-intervals) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mainudheen/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mainudheen/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Mainudheen/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mainudheen/leetcode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mainudheen/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mainudheen/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Mainudheen/leetcode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Mainudheen/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mainudheen/leetcode/tree/master/0268-missing-number) |
