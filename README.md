@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mainudheen/leetcode/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/Mainudheen/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Mainudheen/leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mainudheen/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/Mainudheen/leetcode/tree/master/2278-percentage-of-letter-in-string) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Mainudheen/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Mainudheen/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mainudheen/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Mainudheen/leetcode/tree/master/0287-find-the-duplicate-number) |
