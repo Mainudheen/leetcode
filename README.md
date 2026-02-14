@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Mainudheen/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mainudheen/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mainudheen/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/Mainudheen/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2284-sender-with-largest-word-count](https://github.com/Mainudheen/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Mainudheen/leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Hash Table
