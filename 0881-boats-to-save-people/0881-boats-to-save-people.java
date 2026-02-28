@@ -2,22 +2,28 @@ class Solution {
     public int numRescueBoats(int[] people, int limit) {
         Arrays.sort(people);
         int left = 0;
-        int right = people.length-1;
         int boat = 0;
-        while(left <= right){
-            if(people[left]+people[right] > limit){
+        int right = people.length-1;
+        while(left<=right){
+            int sum = people[left] + people[right];
+            if(left == right){
+                boat++;
+                break;
+            }
+            if(sum == limit){
+                boat++;
+                left++;
+                right--;
+            }else if(sum > limit){
                 boat++;
                 right--;
-            }else if(people[left]+people[right] <= limit){
+            }else{
                 boat++;
                 left++;
                 right--;
             }
-            else{
-            boat++;
-            right--;
-            }
+            
         }
-        return boat;
+        return boat++;
     }
 }
