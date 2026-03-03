@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mainudheen/leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Mainudheen/leetcode/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mainudheen/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mainudheen/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2278-percentage-of-letter-in-string](https://github.com/Mainudheen/leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2284-sender-with-largest-word-count](https://github.com/Mainudheen/leetcode/tree/master/2284-sender-with-largest-word-count) |
 ## Array
@@ -75,12 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Mainudheen/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/Mainudheen/leetcode/tree/master/0645-set-mismatch) |
 | [0840-magic-squares-in-grid](https://github.com/Mainudheen/leetcode/tree/master/0840-magic-squares-in-grid) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mainudheen/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2284-sender-with-largest-word-count](https://github.com/Mainudheen/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Mainudheen/leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mainudheen/leetcode/tree/master/0169-majority-element) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mainudheen/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2284-sender-with-largest-word-count](https://github.com/Mainudheen/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Mainudheen/leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Two Pointers
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Mainudheen/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mainudheen/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Mainudheen/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mainudheen/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mainudheen/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Linked List
 |  |
