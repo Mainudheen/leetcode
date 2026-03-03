@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/Mainudheen/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2284-sender-with-largest-word-count](https://github.com/Mainudheen/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Mainudheen/leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mainudheen/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mainudheen/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mainudheen/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mainudheen/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2284-sender-with-largest-word-count](https://github.com/Mainudheen/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Mainudheen/leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mainudheen/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Mainudheen/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/Mainudheen/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mainudheen/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mainudheen/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mainudheen/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Tree
 |  |
