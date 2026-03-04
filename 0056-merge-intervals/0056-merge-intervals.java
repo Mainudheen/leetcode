@@ -1,38 +1,26 @@
+
+
 class Solution {
-    public int[][] merge(int[][] it) {
-        int m = it.length;
-        int n = it[0].length;
-        Arrays.sort(it,(a,b)->{
-            if(a[0]!=b[0]){
-                return Integer.compare(a[0],b[0]);
+    public int[][] merge(int[][] intervals) {
+
+        Arrays.sort(intervals,(a,b)->Integer.compare(a[0],b[0]));
+
+        int[][] arr = new int[intervals.length][2];
+
+        int left = 0;
+        arr[0] = intervals[0];
+
+        for(int right=1; right<intervals.length; right++){
+
+            if(arr[left][1] >= intervals[right][0]){
+                arr[left][1] = Math.max(arr[left][1], intervals[right][1]);
             }
-            return Integer.compare(a[1],b[1]);
-        });
-        int[][] temp = new int[m][n];
-        int a = 0;
-        int b = 0;
-        temp[a][0] = it[0][0];
-        temp[a][1] = it[0][1];
-        int i=1;
-        int k=0;
-        while(i<m){
-            if(temp[k][1] >= it[i][0]){
-                temp[k][1] = Math.max(temp[k][1],it[i][1]);
-            }else{
-                k++;
-                temp[k][0] = it[i][0];
-                temp[k][1] = it[i][1];
+            else{
+                left++;
+                arr[left] = intervals[right];
             }
-            i++;
-        } 
-       
-        int[][] ans = new int[k + 1][2];
-        for (i = 0; i <= k; i++) {
-            ans[i][0] = temp[i][0];
-            ans[i][1] = temp[i][1];
         }
-        
-       
-        return ans;
+
+        return Arrays.copyOf(arr, left+1);
     }
 }
