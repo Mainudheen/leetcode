@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Mainudheen/leetcode/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/Mainudheen/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Mainudheen/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Mainudheen/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/Mainudheen/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mainudheen/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Mainudheen/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Mainudheen/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mainudheen/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Mainudheen/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Mainudheen/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mainudheen/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mainudheen/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Linked List
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Mainudheen/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/Mainudheen/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mainudheen/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1004-max-consecutive-ones-iii](https://github.com/Mainudheen/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mainudheen/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Mainudheen/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mainudheen/leetcode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mainudheen/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Mainudheen/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Mainudheen/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mainudheen/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
 | Problem Name | Difficulty |
