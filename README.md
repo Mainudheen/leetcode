@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Mainudheen/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Mainudheen/leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Mainudheen/leetcode/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mainudheen/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mainudheen/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mainudheen/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mainudheen/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mainudheen/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mainudheen/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mainudheen/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mainudheen/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mainudheen/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Mainudheen/leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Mainudheen/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mainudheen/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mainudheen/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Mainudheen/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mainudheen/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mainudheen/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Mainudheen/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mainudheen/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
