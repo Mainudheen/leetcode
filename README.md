@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Mainudheen/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0840-magic-squares-in-grid](https://github.com/Mainudheen/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0973-k-closest-points-to-origin](https://github.com/Mainudheen/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Mainudheen/leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Mainudheen/leetcode/tree/master/0206-reverse-linked-list) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Mainudheen/leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Mainudheen/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Mainudheen/leetcode/tree/master/0645-set-mismatch) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mainudheen/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Mainudheen/leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -317,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Mainudheen/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Mainudheen/leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 <!---LeetCode Topics End-->
