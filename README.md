@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Mainudheen/leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Mainudheen/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mainudheen/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Mainudheen/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Mainudheen/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Mainudheen/leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Mainudheen/leetcode/tree/master/0704-binary-search) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mainudheen/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Mainudheen/leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Mainudheen/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Mainudheen/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/Mainudheen/leetcode/tree/master/0645-set-mismatch) |
 | [0840-magic-squares-in-grid](https://github.com/Mainudheen/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mainudheen/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mainudheen/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Mainudheen/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Mainudheen/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Mainudheen/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mainudheen/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
