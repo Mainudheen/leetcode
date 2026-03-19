@@ -360,4 +360,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Mainudheen/leetcode/tree/main/0175-combine-two-tables/) | Easy |
+| [0577-employee-bonus](https://github.com/Mainudheen/leetcode/tree/main/0577-employee-bonus/) | Easy |
 <!---LeetCode Topics End-->
