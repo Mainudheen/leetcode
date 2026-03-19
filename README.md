@@ -361,5 +361,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Mainudheen/leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [0577-employee-bonus](https://github.com/Mainudheen/leetcode/tree/main/0577-employee-bonus/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/Mainudheen/leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Mainudheen/leetcode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
