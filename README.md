@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Mainudheen/leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [0577-employee-bonus](https://github.com/Mainudheen/leetcode/tree/main/0577-employee-bonus/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/Mainudheen/leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/Mainudheen/leetcode/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Mainudheen/leetcode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Mainudheen/leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
