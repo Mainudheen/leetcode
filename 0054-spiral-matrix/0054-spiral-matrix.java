@@ -7,7 +7,7 @@ class Solution {
         int right = col-1;
         int top = 0;
         int bottom = row-1;
-        while(left<=right){
+        while(left<=right && top<=bottom){
             for(int i=top;i<=right;i++){
                 res.add(matrix[top][i]);
             }
