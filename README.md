@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/Mainudheen/leetcode/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/Mainudheen/leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/Mainudheen/leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Mainudheen/leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Mainudheen/leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1393-capital-gainloss](https://github.com/Mainudheen/leetcode/tree/main/1393-capital-gainloss/) | Medium |
 | [1683-invalid-tweets](https://github.com/Mainudheen/leetcode/tree/main/1683-invalid-tweets/) | Easy |
