@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Mainudheen/leetcode/tree/main/1148-article-views-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Mainudheen/leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1393-capital-gainloss](https://github.com/Mainudheen/leetcode/tree/main/1393-capital-gainloss/) | Medium |
+| [1407-top-travellers](https://github.com/Mainudheen/leetcode/tree/main/1407-top-travellers/) | Easy |
 | [1683-invalid-tweets](https://github.com/Mainudheen/leetcode/tree/main/1683-invalid-tweets/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/Mainudheen/leetcode/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Mainudheen/leetcode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
