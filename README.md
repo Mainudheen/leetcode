@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Mainudheen/leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/Mainudheen/leetcode/tree/main/0176-second-highest-salary/) | Medium |
+| [0180-consecutive-numbers](https://github.com/Mainudheen/leetcode/tree/main/0180-consecutive-numbers/) | Medium |
 | [0182-duplicate-emails](https://github.com/Mainudheen/leetcode/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Mainudheen/leetcode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/Mainudheen/leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
