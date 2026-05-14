@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Mainudheen/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mainudheen/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mainudheen/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Mainudheen/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mainudheen/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mainudheen/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Mainudheen/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Mainudheen/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/Mainudheen/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Mainudheen/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 ## Breadth-First Search
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Mainudheen/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Mainudheen/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/Mainudheen/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Mainudheen/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 ## Prefix Sum
