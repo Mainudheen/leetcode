@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Mainudheen/leetcode/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Mainudheen/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Mainudheen/leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Mainudheen/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0344-reverse-string](https://github.com/Mainudheen/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Mainudheen/leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mainudheen/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Mainudheen/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Mainudheen/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Mainudheen/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mainudheen/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mainudheen/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Mainudheen/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Mainudheen/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Mainudheen/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mainudheen/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mainudheen/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Mainudheen/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Mainudheen/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Mainudheen/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0547-number-of-provinces](https://github.com/Mainudheen/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/Mainudheen/leetcode/tree/main/0695-max-area-of-island/) | Medium |
@@ -487,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0079-word-search](https://github.com/Mainudheen/leetcode/tree/main/0079-word-search/) | Medium |
 | [0113-path-sum-ii](https://github.com/Mainudheen/leetcode/tree/main/0113-path-sum-ii/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Mainudheen/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
