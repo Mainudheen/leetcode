@@ -21,11 +21,10 @@ class Solution {
             map.put(inorder[i],i);
         }
         return helper(preorder,map,0,inorder.length-1);
-
+        
     }
     public TreeNode helper(int[] preorder,HashMap<Integer,Integer> map,int start,int end){
-        if(start > end)return null;
-
+        if(start > end) return null;
         int val = preorder[index++];
         TreeNode node = new TreeNode(val);
 
@@ -33,7 +32,7 @@ class Solution {
 
         node.left = helper(preorder,map,start,idx-1);
         node.right = helper(preorder,map,idx+1,end);
+        return node; 
 
-        return node;
     }
 }
