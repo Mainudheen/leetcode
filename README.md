@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mainudheen/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mainudheen/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mainudheen/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mainudheen/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Mainudheen/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/Mainudheen/leetcode/tree/main/0695-max-area-of-island/) | Medium |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Mainudheen/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
