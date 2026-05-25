@@ -20,19 +20,19 @@ class Solution {
         for(int i=0;i<inorder.length;i++){
             map.put(inorder[i],i);
         }
-        return helper(preorder,map,0,inorder.length-1);
+        return check(preorder,map,0,inorder.length-1);
         
     }
-    public TreeNode helper(int[] preorder,HashMap<Integer,Integer> map,int start,int end){
-        if(start > end) return null;
+    public TreeNode check(int[] preorder,HashMap<Integer,Integer> map,int start,int end){
+        if(start > end)return null;
+
         int val = preorder[index++];
         TreeNode node = new TreeNode(val);
-
         int idx = map.get(val);
 
-        node.left = helper(preorder,map,start,idx-1);
-        node.right = helper(preorder,map,idx+1,end);
-        return node; 
+        node.left = check(preorder,map,start,idx-1);
+        node.right = check(preorder,map,idx+1,end);
 
+        return node;
     }
 }
