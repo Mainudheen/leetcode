@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Mainudheen/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mainudheen/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Mainudheen/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mainudheen/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/Mainudheen/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Mainudheen/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Mainudheen/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Mainudheen/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
