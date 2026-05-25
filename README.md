@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Mainudheen/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Mainudheen/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Mainudheen/leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mainudheen/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mainudheen/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Mainudheen/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Mainudheen/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Mainudheen/leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mainudheen/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mainudheen/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Mainudheen/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Mainudheen/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Mainudheen/leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0547-number-of-provinces](https://github.com/Mainudheen/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/Mainudheen/leetcode/tree/main/0695-max-area-of-island/) | Medium |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Mainudheen/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Mainudheen/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Mainudheen/leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0547-number-of-provinces](https://github.com/Mainudheen/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mainudheen/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/Mainudheen/leetcode/tree/main/0695-max-area-of-island/) | Medium |
