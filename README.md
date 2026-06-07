@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/Mainudheen/leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/Mainudheen/leetcode/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/Mainudheen/leetcode/tree/main/1148-article-views-i/) | Easy |
+| [1280-students-and-examinations](https://github.com/Mainudheen/leetcode/tree/main/1280-students-and-examinations/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Mainudheen/leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1393-capital-gainloss](https://github.com/Mainudheen/leetcode/tree/main/1393-capital-gainloss/) | Medium |
 | [1407-top-travellers](https://github.com/Mainudheen/leetcode/tree/main/1407-top-travellers/) | Easy |
