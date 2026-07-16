@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Mainudheen/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0973-k-closest-points-to-origin](https://github.com/Mainudheen/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Mainudheen/leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mainudheen/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -571,4 +572,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Mainudheen/leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mainudheen/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
