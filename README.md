@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mainudheen/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mainudheen/leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Mainudheen/leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1816-truncate-sentence](https://github.com/Mainudheen/leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mainudheen/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mainudheen/leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2278-percentage-of-letter-in-string](https://github.com/Mainudheen/leetcode/tree/master/2278-percentage-of-letter-in-string) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mainudheen/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Mainudheen/leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Mainudheen/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1816-truncate-sentence](https://github.com/Mainudheen/leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mainudheen/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mainudheen/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mainudheen/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
