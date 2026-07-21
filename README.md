@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/Mainudheen/leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2284-sender-with-largest-word-count](https://github.com/Mainudheen/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2325-decode-the-message](https://github.com/Mainudheen/leetcode/tree/main/2325-decode-the-message/) | Easy |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Mainudheen/leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [3110-score-of-a-string](https://github.com/Mainudheen/leetcode/tree/main/3110-score-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Mainudheen/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mainudheen/leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mainudheen/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mainudheen/leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Mainudheen/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Mainudheen/leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mainudheen/leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mainudheen/leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mainudheen/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Mainudheen/leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mainudheen/leetcode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Mainudheen/leetcode/tree/main/0079-word-search/) | Medium |
 | [0113-path-sum-ii](https://github.com/Mainudheen/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Mainudheen/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Mainudheen/leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
