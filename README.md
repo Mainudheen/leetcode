@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Mainudheen/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2278-percentage-of-letter-in-string](https://github.com/Mainudheen/leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2284-sender-with-largest-word-count](https://github.com/Mainudheen/leetcode/tree/master/2284-sender-with-largest-word-count) |
+| [2325-decode-the-message](https://github.com/Mainudheen/leetcode/tree/main/2325-decode-the-message/) | Easy |
 | [3110-score-of-a-string](https://github.com/Mainudheen/leetcode/tree/main/3110-score-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Mainudheen/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mainudheen/leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mainudheen/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Mainudheen/leetcode/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2284-sender-with-largest-word-count](https://github.com/Mainudheen/leetcode/tree/master/2284-sender-with-largest-word-count) |
+| [2325-decode-the-message](https://github.com/Mainudheen/leetcode/tree/main/2325-decode-the-message/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Mainudheen/leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2540-minimum-common-value](https://github.com/Mainudheen/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mainudheen/leetcode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
