@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mainudheen/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Mainudheen/leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0567-permutation-in-string](https://github.com/Mainudheen/leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Mainudheen/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mainudheen/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mainudheen/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mainudheen/leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mainudheen/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Mainudheen/leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Mainudheen/leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Mainudheen/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/Mainudheen/leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Mainudheen/leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Mainudheen/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Mainudheen/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mainudheen/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Mainudheen/leetcode/tree/master/0496-next-greater-element-i) |
+| [0844-backspace-string-compare](https://github.com/Mainudheen/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mainudheen/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mainudheen/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mainudheen/leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Mainudheen/leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Mainudheen/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mainudheen/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mainudheen/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Mainudheen/leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
