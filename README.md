@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Mainudheen/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Mainudheen/leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Mainudheen/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mainudheen/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Mainudheen/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mainudheen/leetcode/tree/master/0268-missing-number) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Mainudheen/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/Mainudheen/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Mainudheen/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Mainudheen/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mainudheen/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mainudheen/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/Mainudheen/leetcode/tree/main/0139-word-break/) | Medium |
@@ -634,4 +636,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/Mainudheen/leetcode/tree/main/0214-shortest-palindrome/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Mainudheen/leetcode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
