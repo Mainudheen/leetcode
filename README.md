@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Mainudheen/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Mainudheen/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Mainudheen/leetcode/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Mainudheen/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Mainudheen/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mainudheen/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Mainudheen/leetcode/tree/main/0079-word-search/) | Medium |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Mainudheen/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Mainudheen/leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Mainudheen/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Mainudheen/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mainudheen/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Mainudheen/leetcode/tree/main/0079-word-search/) | Medium |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Mainudheen/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Mainudheen/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Mainudheen/leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Mainudheen/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mainudheen/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mainudheen/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/Mainudheen/leetcode/tree/main/0139-word-break/) | Medium |
