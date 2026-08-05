@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Mainudheen/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Mainudheen/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/Mainudheen/leetcode/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/Mainudheen/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/Mainudheen/leetcode/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/Mainudheen/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/Mainudheen/leetcode/tree/main/0139-word-break/) | Medium |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Mainudheen/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Mainudheen/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Mainudheen/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0072-edit-distance](https://github.com/Mainudheen/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mainudheen/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mainudheen/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/Mainudheen/leetcode/tree/main/0139-word-break/) | Medium |
