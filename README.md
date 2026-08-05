@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Mainudheen/leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0567-permutation-in-string](https://github.com/Mainudheen/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Mainudheen/leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mainudheen/leetcode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Mainudheen/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mainudheen/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mainudheen/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Mainudheen/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0392-is-subsequence](https://github.com/Mainudheen/leetcode/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Mainudheen/leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mainudheen/leetcode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Mainudheen/leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Mainudheen/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Bit Manipulation
@@ -665,5 +667,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Mainudheen/leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mainudheen/leetcode/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Mainudheen/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
