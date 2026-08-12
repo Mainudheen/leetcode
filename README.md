@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Mainudheen/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mainudheen/leetcode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mainudheen/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mainudheen/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Mainudheen/leetcode/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mainudheen/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Mainudheen/leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2540-minimum-common-value](https://github.com/Mainudheen/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mainudheen/leetcode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mainudheen/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mainudheen/leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Mainudheen/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mainudheen/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Mainudheen/leetcode/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mainudheen/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mainudheen/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Linked List
 | Problem Name | Difficulty |
