@@ -1,7 +1,7 @@
 with cte as (
     select num,
-    lead(num,1) over(order by id) num1,
-    lead(num,2) over(order by id) num2
+    lead(num,1)  over(order by id asc) as num1,
+    lead(num,2) over(order by id asc) as num2
     from logs
 )
 
