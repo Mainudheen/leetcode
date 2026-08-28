@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mainudheen/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mainudheen/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Mainudheen/leetcode/tree/main/0130-surrounded-regions/) | Medium |
+| [0136-single-number](https://github.com/Mainudheen/leetcode/tree/main/0136-single-number/) | Easy |
 | [0139-word-break](https://github.com/Mainudheen/leetcode/tree/main/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mainudheen/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mainudheen/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Mainudheen/leetcode/tree/main/0136-single-number/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Mainudheen/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0268-missing-number](https://github.com/Mainudheen/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mainudheen/leetcode/tree/master/0287-find-the-duplicate-number) |
