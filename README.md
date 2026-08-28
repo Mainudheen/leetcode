@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mainudheen/leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mainudheen/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Mainudheen/leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mainudheen/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Mainudheen/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1816-truncate-sentence](https://github.com/Mainudheen/leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mainudheen/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
