@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Mainudheen/leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1816-truncate-sentence](https://github.com/Mainudheen/leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mainudheen/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/Mainudheen/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mainudheen/leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Mainudheen/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2278-percentage-of-letter-in-string](https://github.com/Mainudheen/leetcode/tree/master/2278-percentage-of-letter-in-string) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0672-bulb-switcher-ii](https://github.com/Mainudheen/leetcode/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [0840-magic-squares-in-grid](https://github.com/Mainudheen/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0973-k-closest-points-to-origin](https://github.com/Mainudheen/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Mainudheen/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Mainudheen/leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mainudheen/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Matrix
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Mainudheen/leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mainudheen/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mainudheen/leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Mainudheen/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mainudheen/leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mainudheen/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Mainudheen/leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
