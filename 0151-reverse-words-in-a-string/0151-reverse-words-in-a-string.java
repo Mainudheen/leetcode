@@ -10,6 +10,6 @@ class Solution {
                 res+=" ";
             }
         }
-        return res.trim();
+        return res;
     }
 }
