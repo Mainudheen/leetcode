@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mainudheen/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Mainudheen/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mainudheen/leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mainudheen/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Mainudheen/leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1816-truncate-sentence](https://github.com/Mainudheen/leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mainudheen/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Mainudheen/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mainudheen/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mainudheen/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mainudheen/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mainudheen/leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Mainudheen/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Mainudheen/leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
@@ -706,4 +708,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Mainudheen/leetcode/tree/main/0169-majority-element/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mainudheen/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
