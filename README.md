@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Mainudheen/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Mainudheen/leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mainudheen/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3870-count-commas-in-range](https://github.com/Mainudheen/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
