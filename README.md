@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Mainudheen/leetcode/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/Mainudheen/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Mainudheen/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0338-counting-bits](https://github.com/Mainudheen/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/Mainudheen/leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Mainudheen/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Mainudheen/leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Mainudheen/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0268-missing-number](https://github.com/Mainudheen/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mainudheen/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Mainudheen/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0645-set-mismatch](https://github.com/Mainudheen/leetcode/tree/master/0645-set-mismatch) |
 | [0672-bulb-switcher-ii](https://github.com/Mainudheen/leetcode/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Mainudheen/leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
